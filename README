@@ -1,0 +1,26 @@
+# Contador de 1 a 10
+
+Este projeto é um simples script em Python que utiliza um loop `while` para contar de 1 a 10. É ideal para iniciantes que estão aprendendo sobre loops em Python e como incrementar variáveis dentro de um loop.
+
+## Como funciona
+
+- O script inicializa uma variável `contador` com o valor 1.
+- Em seguida, utiliza um loop `while` que continua a executar enquanto o valor de `contador` for menor ou igual a 10.
+- Dentro do loop, o valor atual de `contador` é impresso e a variável é incrementada em 1 a cada iteração.
+- O loop termina quando `contador` atinge o valor 11, momento em que o programa é encerrado.
+
+## Pré-requisitos
+
+- Python 3.x instalado em seu sistema.
+
+## Executando o script
+
+1. Clone este repositório em sua máquina local.
+2. Navegue até o diretório do projeto.
+3. Execute o script com o comando:
+
+   ```bash
+   python contador.py
+
+Licença
+Este projeto está licenciado sob a MIT License.
