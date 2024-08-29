@@ -22,7 +22,7 @@ Este projeto é um simples script em Python que utiliza um loop `while` para con
 2. Navegue até o diretório do projeto:
 cd adivinhe-o-numero
 3. Execute o script Python:
-python adivinhar_numero.py
+python Contador_de_Numeros.py
 
 Requisitos
 Python 3.x
