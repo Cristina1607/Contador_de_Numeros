@@ -1,0 +1,20 @@
+```plaintext
+# Ignorar arquivos compilados em Python
+__pycache__/
+
+# Ignorar arquivos de ambiente virtual
+env/
+.venv/
+
+# Ignorar arquivos de configuração do editor
+.vscode/
+.idea/
+
+Enunciado
+Desenvolva um script em Python que utilize um loop while para realizar uma contagem de 1 a 10. O script deve seguir as etapas abaixo:
+
+1. Inicializar uma variável chamada contador com o valor 1.
+2. Utilizar um loop while que continue executando enquanto o valor de contador for menor ou igual a 10.
+3. Durante cada iteração do loop, o valor atual de contador deve ser exibido na saída.
+4. Após exibir o valor, a variável contador deve ser incrementada em 1.
+5. O loop deve ser encerrado quando contador ultrapassar o valor 10.
